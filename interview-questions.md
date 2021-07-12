@@ -9,7 +9,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: A set of logic and rules that when given a specific input will produce a consistent output, little code machines, self contained - encapsulated, reusable - can be called many times, building blocks of any program
 
 
 
@@ -17,7 +17,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Parameter is the placeholder in the parentheses of the function expression, the argument is the actual value - must be a data type that JavaScript recognizes, passed in the parentheses of the invocation
 
 
 
@@ -25,7 +25,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Index is the position of an element in an array or string, zero-index, value is the actual element or character and the index is its position
 
 
 
@@ -33,7 +33,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Function that is added to the language, frequent actions, they are designed to act on a particular data type
 
 
 
@@ -41,8 +41,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
-
+  Researched answer: Two people working on the same project, one source code, driver - typing, navigator - talking things through, looking for errors, switch roles often
 
 
 6. What is something we did in class this week you found helpful?  
@@ -55,12 +54,12 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 Research and define the following terms to the best of your ability.
 
-1. Iteration:
+1. Iteration: Code that runs over and over until a condition is met
 
-2. Higher Order Functions:
+2. Higher Order Functions: Functions that takes a function as an argument or outputs a function as a return
 
-3. Jest:
+3. Jest: JavaScript testing framework, maintained by Facebook
 
-4. Classes:
+4. Classes: Blueprints for objects, consist of data and behavior
 
-5. React:
+5. React: JavaScript library for building user interfaces
